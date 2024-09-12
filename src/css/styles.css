@@ -81,14 +81,7 @@
   height: 66px;
   margin-bottom: 24px;
 }
-.radio {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: row;
-  width: 264px;
-  height: 32px;
-}
+
 .form-btn {
   display: flex;
   align-items: center;
